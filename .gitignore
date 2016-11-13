@@ -78,3 +78,8 @@ nosetests.xml
 # Temporary QUnit folder
 #qunit/
 
+# static docs
+www/static_doc/
+
+# generated stuff
+dist/
